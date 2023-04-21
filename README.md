@@ -7,4 +7,6 @@ Chrome Dino Runner 2.0  Desarrrollado con el Lenguaje de Programación Python.
 ** Proteccion de Escudo es una de Ellas con las que te proteges de los Cactus y las aves , te haces "Invensible"**
 ** Y una Herramienta que fue llamada el Martillo de THOR.... La cual golpea a los objetos/enemigos y se deshace de ellos**
 
+BY: Joker.Co (Eduard Sepulveda)
+
 
