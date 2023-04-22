@@ -9,12 +9,16 @@ con algunas funcionalidades extras.
 
 
 
-#License
-
-[GitHub]  (https://github.com/JokerC0)
+## Autor
 
 Joker.Co (Eduard Sepulveda)
+[GitHub]  (https://github.com/JokerC0)
+
+
+
+## License
 
 MIT © Eduard Sepulveda
+**Todos los Derechos Protegidos por Joker.Co © **
 
 
