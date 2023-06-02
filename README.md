@@ -12,7 +12,7 @@ con algunas funcionalidades extras.
 ## Autor
 
 (Eduard Sepulveda)
-[GitHub]  (https://github.com/JokerC0)
+
 
 
 
