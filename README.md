@@ -10,6 +10,9 @@ que te permite recibir ataques de los obstaculos sin recibir daño, y Martillo
 que elimina los obstaculos que se te atraviesa, todo eso son recibidos aleatoriamente
 despues del score 200.
 
+Ademas con implementaciones de audio habituales del Chrome Dino y sonido de fondo 
+para cuando inicies el juego.
+
 
 
 
