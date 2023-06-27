@@ -5,7 +5,10 @@
 Python y la biblioteca de Pygame.
 
 Es el Juego Actualizado en comparacion con el original ya que fue desarrollado
-con algunas funcionalidades extras.
+con algunas funcionalidades extras, como la implementacion de Power Ups. Escudo 
+que te permite recibir ataques de los obstaculos sin recibir daño, y Martillo 
+que elimina los obstaculos que se te atraviesa, todo eso son recibidos aleatoriamente
+despues del score 200.
 
 
 
